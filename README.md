@@ -51,4 +51,4 @@ Feel free to contribute with code, comments, whatever you want and in the way yo
 
 Refer always to the original project https://github.com/probonopd/linuxdeployqt as they are the original authors.
 
-If you don't agree that developers should know what they are doing, ¯\_(ツ)_/¯ .
+If you don't agree that developers should know what they are doing, ¯\\_(ツ)_/¯ .
